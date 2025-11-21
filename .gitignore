@@ -1,0 +1,17 @@
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.userprefs
+*.db
+publish/
+*.zip
+*.log
+*.vsix
+*.nupkg
+TestResults/
+.DS_Store
+node_modules/
+*.db
